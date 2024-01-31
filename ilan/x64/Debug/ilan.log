@@ -1,0 +1,7 @@
+﻿  ilan.cpp
+C:\Users\mirta\OneDrive\Desktop\ilan\ilan.cpp(19,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mirta\OneDrive\Desktop\ilan\ilan.cpp(20,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\mirta\OneDrive\Desktop\ilan\allfunction.h(70,17): warning C4309: '=': truncation of constant value
+C:\Users\mirta\OneDrive\Desktop\ilan\allfunction.h(72,16): warning C4309: '=': truncation of constant value
+C:\Users\mirta\OneDrive\Desktop\ilan\allfunction.h(169,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ilan.vcxproj -> C:\Users\mirta\OneDrive\Desktop\ilan\x64\Debug\ilan.exe
